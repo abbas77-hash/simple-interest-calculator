@@ -10,3 +10,4 @@ Run this script in a Bash terminal:
 
 ```bash
 bash simple-interest.sh
+
